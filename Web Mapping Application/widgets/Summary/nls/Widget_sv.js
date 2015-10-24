@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Summary/nls/strings":{_widgetLabel:"Sammanfattning",filter:"Filter",all:"Alla",missingLayerInWebMap:"Inga driftslager i webbkartan.",missingSummaryLayerInConfig:"Sammanfattningslager saknas.",_localized:{}}});

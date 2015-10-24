@@ -1,0 +1,2 @@
+//>>built
+define(["dojo/_base/declare","jimu/BaseWidget","jimu/loaderplugins/jquery-loader!https://code.jquery.com/jquery-git1.min.js"],function(a,c,b){return a(c,{startup:function(){var a=this.map;b(".jimu-widget-use-jquery .map-id").click(function(){alert(a.id)});b(".jimu-widget-use-jquery .my-title").text("title added by jquery.")}})});
